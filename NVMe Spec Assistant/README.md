@@ -8,7 +8,7 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
    - Windows:`.\langchainenv\Scripts\activate`
    - Mac: `source langchain/bin/activate`
 3. Clone this repo `git clone https://github.com/jerryold/LangChain-Project/NVMe Specification Assisant`
-4. Go into the directory `cd LangchainDocuments`
+4. Go into the directory `cd LangChain-Project`
 5. Install the required dependencies `pip install -r requirements.txt`
 6. Add your own OpenAI APIKey to line 22 of `app.py`
 #### OpenAI APIKEY-The most import thing is that you need apply your own key in offical website🔑
