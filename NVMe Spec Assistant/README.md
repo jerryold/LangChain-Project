@@ -11,9 +11,15 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 4. Go into the directory `cd LangchainDocuments`
 5. Install the required dependencies `pip install -r requirements.txt`
 6. Add your own OpenAI APIKey to line 22 of `app.py`
-# OpenAI APIKEY-The most import thing is that you need apply your own key in offical website🔑
+#### OpenAI APIKEY-The most import thing is that you need apply your own key in offical website🔑
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/ee344176-8784-4b45-8936-53fa734d8e56)
 
 7. Start the app `streamlit run app.py`  
+
+# LangChain Application Theory
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/083f5b81-6d4f-4c94-acc9-50e992235fa4)
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/3595da66-89cc-4d11-9eaf-49010d056cbb)
+
 
 # Package Summary📙
 *  PyPDF2 is a free and open source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
