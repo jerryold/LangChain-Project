@@ -27,11 +27,14 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 *  Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time.
 
 
+# Demo💻
+[NVMe Spec Assistant demo.webm](https://github.com/jerryold/LangChain-Project/assets/12774427/12686753-1556-4132-84c8-93d4b69760df)
 
 
 # Other References 🔗
 <p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
 </a></p>
+
 
 
 
