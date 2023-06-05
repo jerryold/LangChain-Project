@@ -1,5 +1,5 @@
-# Read NVMe Spec in a Langchain Pipeline📕
-This project highlights how to leverage a ChromaDB vectorstore in a Langchain pipeline to create chatbot to analyze with the csv file . You can load in a csv based document and use it alongside an LLM without the need for fine tuning. In our case, we utilitize it on the financial report of the Taiwan Stock
+# CSVChatbot📕
+This project highlights how to leverage a ChromaDB vectorstore in a Langchain pipeline to create chatbot to analyze with the csv file . You can load in a csv based document and use it alongside an LLM without the need for fine tuning. In our case, we utilitize it on the NBA report of the Player Salay from 2022 to 2025. The dataset is from kaggle<a href="[https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html](https://www.kaggle.com/datasets/omarsobhy14/nba-players-salaries)">
 
 
 # Introduction 🚀
@@ -24,7 +24,11 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 
 # The demo screenshot of the app
 * Initial Screen
+ ![image](https://github.com/jerryold/LangChain-Project/assets/12774427/04af6cf2-f3f5-4565-b197-edf82e82d8a5)
+
 * ChatScreen
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/dbdf3697-4d31-4e24-b3bc-101e957a36dc)
+
 
 
 # Other References 🔗
