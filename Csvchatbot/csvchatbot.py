@@ -14,12 +14,12 @@ im = Image.open('./image/chatbot.png')
 st.set_page_config(page_title="CSVChatbot Interatcion App", page_icon = im)
 # bg = Image.open('./image/background.png')
 # st.image(bg, caption='None',use_column_width=True)
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'your own openai api key'
 
 with st.sidebar:
         st.title("Hi,I'm your customized CSVChatbot 🤖,please insert the csv file you want to analyze as below")
 
-uploaded_file = st.sidebar.file_uploader("", type="csv")
+uploaded_file = st.sidebar.file_uploader("upload", type="csv")
 
 
 def set_bg_hack_url():
