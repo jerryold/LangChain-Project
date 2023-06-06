@@ -1,4 +1,4 @@
-# Read NVMe Spec in a Langchain Pipeline📕
+# Youtube Summary in a Langchain Pipeline📕
 This project highlights how to summary the youtube content to help listener who can understand the video in a short time . You can type the youtube link and use it alongside an LLM without the need for fine tuning. 
 
 
