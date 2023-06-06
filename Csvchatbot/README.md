@@ -6,7 +6,7 @@ This project highlights how to create chatbot to analyze with the csv file . You
 1. Create a virtual environment `python -m venv csvchatbot`
 2. Activate it: 
    - Windows:`.\csvchatbot\Scripts\activate`
-   - Mac: `source langchain/bin/activate`
+   - Mac: `source csvchatbot/bin/activate`
 3. Clone this repo `git clone https://github.com/jerryold/LangChain-Project/Csvchatbot`
 4. Go into the directory `cd Csvchatbot`
 5. Install the required dependencies `pip install -r requirements.txt`
