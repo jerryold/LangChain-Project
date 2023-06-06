@@ -42,7 +42,7 @@ def yt_gpt_app():
 
     if st.button("Get insights"):
         if not youtube_video_url:
-            st.warning("Please enter the Youtube vide URL")
+            st.warning("Please enter the Youtube video URL")
         else:
             os.environ["OPENAI_API_KEY"] = openai_api_key
 
