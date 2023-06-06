@@ -10,7 +10,7 @@ This project highlights how to summary the youtube content to help listener who 
 3. Clone this repo `git clone https://github.com/jerryold/LangChain-Project/YoutubeSummary`
 4. Go into the directory `cd LangChain-Project`
 5. Install the required dependencies `pip install -r requirements.txt`
-6. Add your own OpenAI APIKey to first placeholder of streamlit application
+6. Add your own OpenAI API Key to first placeholder of streamlit application
 #### OpenAI APIKEY-The most import thing is that you need apply your own key in offical website🔑
 ![image](https://github.com/jerryold/LangChain-Project/assets/12774427/ee344176-8784-4b45-8936-53fa734d8e56)
 
