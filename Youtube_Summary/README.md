@@ -24,13 +24,13 @@ This project highlights how to summary the youtube content to help listener who 
 
 # The demo screenshot of the app🪧
 * Initial Screen
-
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/2a3d592f-3ec6-461d-8329-1f3a703f2535)  
+* Get Insigh tScreen
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/28d8e823-b4f9-42fd-83e8-d9adf9b2de7e)
   
-* ChatScreen
-
-   
 
 # Demo💻
+[youtubegpt.webm](https://github.com/jerryold/LangChain-Project/assets/12774427/a6771a43-eac1-4924-a3b9-3ab517120ab9)
 
 
 
