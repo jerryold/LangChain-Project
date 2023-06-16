@@ -14,7 +14,7 @@ This project highlights how to create chatbot to analyze with the csv file . You
 #### OpenAI APIKEY-The most import thing is that you need apply your own key in offical website🔑
 ![image](https://github.com/jerryold/LangChain-Project/assets/12774427/ee344176-8784-4b45-8936-53fa734d8e56)
 
-7. Start the app `streamlit run app.py`  
+7. Start the app `streamlit run csvchatbot.py`  
 
 # Package Summary📙
 *  PyPDF2 is a free and open source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files

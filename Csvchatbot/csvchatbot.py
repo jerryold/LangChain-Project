@@ -50,11 +50,13 @@ set_bg_hack_url()
 #LangChain CSVLoader class allows us to split a CSV file into unique rows
 if uploaded_file :
     with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
-        tmp_file.write(uploaded_file.getvalue())
+        tmp_file.write(uploaded_file.getvalue())        
         tmp_file_path = tmp_file.name
+        
 
-    loader = CSVLoader(file_path=tmp_file_path, encoding="utf-8")
+    loader = CSVLoader(file_path=tmp_file_path, encoding="utf-8")    
     data = loader.load()
+    
 
     embeddings = OpenAIEmbeddings()
     vectors = FAISS.from_documents(data, embeddings)
