@@ -16,6 +16,8 @@ This project highlights how to create chatbot to analyze with the csv file . You
 
 7. Start the app `streamlit run csvchatbot.py`  
 
+
+
 # Package Summary📙
 *  PyPDF2 is a free and open source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 *  Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time.
@@ -29,7 +31,8 @@ This project highlights how to create chatbot to analyze with the csv file . You
 ![image](https://github.com/jerryold/LangChain-Project/assets/12774427/dbdf3697-4d31-4e24-b3bc-101e957a36dc)
    
  # Demo💻
- [CSVChatbot Demo.webm](https://github.com/jerryold/LangChain-Project/assets/12774427/180114d4-d6d3-45b7-9675-7435d861d25a
+ [CSVChatbot Demo.webm]
+ (https://github.com/jerryold/LangChain-Project/assets/12774427/180114d4-d6d3-45b7-9675-7435d861d25a
 
 # Other References 🔗
 <p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents

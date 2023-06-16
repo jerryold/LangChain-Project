@@ -10,7 +10,6 @@ from langchain.vectorstores import FAISS
 
 
 
-
 import tempfile
 import os
 from PIL import Image
@@ -19,7 +18,7 @@ from PIL import Image
 # Loading Image using PIL
 im = Image.open('./image/chatbot.png')
 # Adding Image to web app
-st.set_page_config(page_title="CSVChatbot Interatcion App", page_icon = im)
+st.set_page_config(page_title="ExcelChatbot Interatcion App", page_icon = im)
 # bg = Image.open('./image/background.png')
 # st.image(bg, caption='None',use_column_width=True)
 os.environ['OPENAI_API_KEY'] = 'your own openai key'
@@ -70,12 +69,12 @@ if uploaded_file :
     embeddings = OpenAIEmbeddings()
     vectors = FAISS.from_documents(data, embeddings)
 
-    
+   
 
 
     
     chain = ConversationalRetrievalChain.from_llm(llm = ChatOpenAI(temperature=0.1, verbose=True),retriever=vectors.as_retriever())
-   
+    
 
     def conversational_chat(query):
         
