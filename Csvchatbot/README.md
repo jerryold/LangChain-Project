@@ -28,10 +28,10 @@ This project highlights how to create chatbot to analyze with the csv file . You
  ![image](https://github.com/jerryold/LangChain-Project/assets/12774427/04af6cf2-f3f5-4565-b197-edf82e82d8a5)
   
 * ChatScreen
-![image](https://github.com/jerryold/LangChain-Project/assets/12774427/dbdf3697-4d31-4e24-b3bc-101e957a36dc)
+![image](https://github.com/jerryold/LangChain-Project/assets/12774427/44443795-7cfa-46a9-90c5-cfb7ba84f635)
    
  # Demo💻
- [CSVChatbot Demo.webm]
+ [CSVChatbot Demo.webm]  
  (https://github.com/jerryold/LangChain-Project/assets/12774427/180114d4-d6d3-45b7-9675-7435d861d25a
 
 # Other References 🔗
