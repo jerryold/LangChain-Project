@@ -31,8 +31,8 @@ This project highlights how to create chatbot to analyze with the csv file . You
 ![image](https://github.com/jerryold/LangChain-Project/assets/12774427/44443795-7cfa-46a9-90c5-cfb7ba84f635)
    
  # Demo💻
- [CSVChatbot Demo.webm]  
- (https://github.com/jerryold/LangChain-Project/assets/12774427/180114d4-d6d3-45b7-9675-7435d861d25a
+[243331026-180114d4-d6d3-45b7-9675-7435d861d25a.webm](https://github.com/jerryold/LangChain-Project/assets/12774427/a7060ce8-1a61-4c68-9e8b-1d41d8e4e5c9)
+
 
 # Other References 🔗
 <p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
