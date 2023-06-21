@@ -1,5 +1,5 @@
 # CSVChatbot📕
-This project highlights how to create chatbot to analyze with the csv file . You can load in a csv based document and use it alongside an LLM without the need for fine tuning. In our case, we utilitize it on the NBA report of the Player Salay from 2022 to 2025. The dataset is from kaggle<a href="[https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html](https://www.kaggle.com/datasets/omarsobhy14/nba-players-salaries)">
+This project highlights how to create chatbot to analyze with the csv file . You can load in a csv based document and use it alongside an LLM without the need for fine tuning. In our case, we utilitize it on the NBA report of the Player Salay from 2022 to 2025. The dataset is from <a href="[https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html](https://www.kaggle.com/datasets/omarsobhy14/nba-players-salaries)">kaggle</a>
 
 
 # Introduction 🚀
