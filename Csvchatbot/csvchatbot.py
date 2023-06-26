@@ -21,7 +21,7 @@ im = Image.open('./image/chatbot.png')
 st.set_page_config(page_title="ExcelChatbot Interatcion App", page_icon = im)
 # bg = Image.open('./image/background.png')
 # st.image(bg, caption='None',use_column_width=True)
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'your own openai key'
 
 with st.sidebar:
         st.title("Hi,I'm your customized CSVChatbot 🤖,please insert the csv file you want to analyze as below")
